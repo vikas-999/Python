@@ -1,0 +1,43 @@
+1. WAP to create a dictionary and count number of occurance of characters in a string without using built-in function.
+     string = 'hello good morning'
+
+
+2. WAP to count no of digits and alphabets and space in a given string.
+    string = 'India got Independence on August 15 1947'
+
+3. WAP to print repetative characters in a  string.
+   sentence = 'hello welcome to python'
+
+4. WAP to print dupliacte characters and non-duplicate characters using inbuilt function.
+    string = 'hello python'
+
+5. WAP to print 2nd occurance of the given substring.
+     string = 'hello python'     substring = 'o'
+
+
+6. WAP to create a list with even length words
+       string = 'India got Independence on August 15 1947'
+
+
+7.   WAP to print prime numbers from 1-20
+
+8.  WAP to get given output .
+I/p : [ sun flower, lilly flower, Marigold flower, lotus flower, lion animal, tiger animal, cat animal, tulasi plant, cow animal, money plant]
+
+O/p: {animal : [tiger, cat, cow, lion], flower: [sun, lilly.........], Plant: [money, tulasi]}
+
+
+9. WAP to get dictionary having first char of word as key and list containing words starting with that char.
+Take a list having 5 words.
+
+10.  WAP to strip the characters without using strip
+
+11.  WAP to print first 10 prime numbers.
+
+12. WAP to extend a list without using inbuilt method.
+
+13.  WAP to print alternative alphabets (upper case)
+
+14. WAP to print alphabets like AaBbCcDdEe............Zz.
+
+15. Take two lists remove common elements in both and return a list of unique elements

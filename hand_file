@@ -1,0 +1,8 @@
+import os
+
+c_path = os.getcwd()
+print(c_path)
+
+path1=r"C:\Users\13203\Documents\hadling_file"
+os.chdir(path1)
+print(c_path)
